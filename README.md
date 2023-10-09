@@ -1,23 +1,23 @@
 # Ray Shading - Enhance your GW experience
 ## Table of Contents
-### [About](#welcome)
+### [About](#welcome!-)
 
-### [Screenshots](#screenshots)
+### [Screenshots](#screenshots-)
 
-### [Installation](#installation)
+### [Installation](#installation-)
 
-# ***Welcome!***  <a name="welcome"></a>
+# ***Welcome!***
 
 This is my take on enhancing the visual experience of Guild Wars 2. It is a game that in it's original form have breathtaking views and zones, for someone who have not tried custom shaders on games the original experience could be enough, but once you try my shading preset, you won't come back.
 I have tested and refined it, and you won't notice any FPS drop if your system is decent enough for the game to run.
 
 ***For installation, please read carefully and follow the guide, it won't take you more than 5 minutes to set everything up.***
 
-# Screenshots <a name="screenshots"></a>
+# Screenshots
 ![Arborstone](https://i.imgur.com/F1zwpkf.png)
 
 
-# Installation <a name="installation"></a>
+# Installation
 
 ## Download the files
 
