@@ -15,6 +15,14 @@ I have tested and refined it, and you won't notice any FPS drop if your system i
 # Screenshots
 ![Arborstone](https://i.imgur.com/F1zwpkf.png)
 
+![Queensdale](https://i.imgur.com/n3HvhlX.png)
+
+![Crystal Desert](https://i.imgur.com/K2fCq6x.png)
+
+![Mist](https://i.imgur.com/siRKMTf.png)
+
+![Dragon's End](https://i.imgur.com/5wm4CrW.png)
+
 
 # Installation
 
@@ -26,8 +34,7 @@ I have tested and refined it, and you won't notice any FPS drop if your system i
 >[ReShade homepage](https://reshade.me/)
 
 ### 📌 [ Ray Shading preset](https://github.com/JacoboGL/GW2-Ray-Shading/releases/download/release/RayShading-1.0.zip) 
->You can also go to "Releases" and download last version from there.
-Place it in your game folder (C:/Program Files/Guild Wars 2)
+>Extract the .ini file and place it in your game folder (C:/Program Files/Guild Wars 2)
 
 
 ## Installing Ray Shading preset with ReShade
