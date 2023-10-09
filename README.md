@@ -25,7 +25,7 @@ I have tested and refined it, and you won't notice any FPS drop if your system i
 >ReShade is a post-processing injector that patches game executables and make them  able to use shading presets adjustable according to the needs of the visual enhancing experience. You will be importing my Ray Shading preset once everything is setup.
 >[ReShade homepage](https://reshade.me/)
 
-### 📌 [ Ray Shading preset]() 
+### 📌 [ Ray Shading preset](https://github.com/JacoboGL/GW2-Ray-Shading/releases/download/release/RayShading-1.0.ini) 
 >You can also go to "Releases" and download last version from there.
 Place it in your game folder (C:/Program Files/Guild Wars 2)
 
