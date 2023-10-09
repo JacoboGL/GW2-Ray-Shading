@@ -1,5 +1,4 @@
 # Ray Shading - Enhance your GW experience
-## Table of Contents
 ### [About](#welcome)
 
 ### [Screenshots](#screenshots-1)
