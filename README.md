@@ -1,10 +1,10 @@
 # Ray Shading - Enhance your GW experience
 ## Table of Contents
-### [About](#welcome!-)
+### [About](#welcome)
 
-### [Screenshots](#screenshots-)
+### [Screenshots](#screenshots-1)
 
-### [Installation](#installation-)
+### [Installation](#installation-1)
 
 # ***Welcome!***
 
