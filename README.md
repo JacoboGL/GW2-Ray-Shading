@@ -1,5 +1,11 @@
 # Ray Shading - Enhance your GW experience
-### ***Welcome!*** 
+### [About](#welcome)
+
+### [Screenshots](#screenshots-1)
+
+### [Installation](#installation-1)
+
+# ***Welcome!***
 
 This is my take on enhancing the visual experience of Guild Wars 2. It is a game that in it's original form have breathtaking views and zones, for someone who have not tried custom shaders on games the original experience could be enough, but once you try my shading preset, you won't come back.
 I have tested and refined it, and you won't notice any FPS drop if your system is decent enough for the game to run.
@@ -8,6 +14,14 @@ I have tested and refined it, and you won't notice any FPS drop if your system i
 
 # Screenshots
 ![Arborstone](https://i.imgur.com/F1zwpkf.png)
+
+![Queensdale](https://i.imgur.com/n3HvhlX.png)
+
+![Crystal Desert](https://i.imgur.com/K2fCq6x.png)
+
+![Mist](https://i.imgur.com/siRKMTf.png)
+
+![Dragon's End](https://i.imgur.com/5wm4CrW.png)
 
 
 # Installation
@@ -19,9 +33,8 @@ I have tested and refined it, and you won't notice any FPS drop if your system i
 >ReShade is a post-processing injector that patches game executables and make them  able to use shading presets adjustable according to the needs of the visual enhancing experience. You will be importing my Ray Shading preset once everything is setup.
 >[ReShade homepage](https://reshade.me/)
 
-### 📌 [ Ray Shading preset]() 
->You can also go to "Releases" and download last version from there.
-Place it in your game folder (C:/Program Files/Guild Wars 2)
+### 📌 [ Ray Shading preset](https://github.com/JacoboGL/GW2-Ray-Shading/releases/download/release/RayShading-1.0.zip) 
+>Extract the .ini file and place it in your game folder (C:/Program Files/Guild Wars 2)
 
 
 ## Installing Ray Shading preset with ReShade
