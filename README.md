@@ -10,6 +10,8 @@
 This is my take on enhancing the visual experience of Guild Wars 2. It is a game that in it's original form have breathtaking views and zones, for someone who have not tried custom shaders on games the original experience could be enough, but once you try my shading preset, you won't come back.
 I have tested and refined it, and you won't notice any FPS drop if your system is decent enough for the game to run.
 
+[You can buy me a $1 dollar coffee if you want to support my work!](https://www.buymeacoffee.com/jacobogl66)
+
 ***For installation, please read carefully and follow the guide, it won't take you more than 5 minutes to set everything up.***
 
 # Screenshots
