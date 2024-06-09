@@ -30,7 +30,7 @@ I have tested and refined it, and you won't notice any FPS drop if your system i
 
 ## Download the files
 
-### 📌[Latest version of ReShade](https://reshade.me/downloads/ReShade_Setup_5.9.2.exe) 
+### 📌[Latest version of ReShade](https://reshade.me/downloads/ReShade_Setup_6.1.1.exe) 
 
 >ReShade is a post-processing injector that patches game executables and make them  able to use shading presets adjustable according to the needs of the visual enhancing experience. You will be importing my Ray Shading preset once everything is setup.
 >[ReShade homepage](https://reshade.me/)
